@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/.env.dev" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/.gitignore" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/Dockerfile" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/entrypoint.sh" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/project/celery.py" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/requirements.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/requirements.txt" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/docker-compose.yml" charset="windows-1251" />
+  </component>
+</project>

@@ -1,0 +1,10 @@
+Django
+djangorestframework
+django-filter
+redis
+celery
+psycopg2-binary
+gunicorn
+Pillow
+requests
+django-celery-beat
